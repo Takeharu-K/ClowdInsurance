@@ -49,20 +49,20 @@ FirebaseにホスティングしたWebページからコントラクトを実行
 コントラクトの脆弱性を減らすこと．
 投票者への報酬設計を変える．
 
-##web
+## web
 https://clowd-insurance.firebaseapp.com/
 
-##devpost
+## devpost
 https://devpost.com/software/clowd-insurance
 
-##スライド
+## スライド
 https://docs.google.com/presentation/d/1DWlA2xXq_RKslU-oQ0a80b33-sDYzOq0/edit#slide=id.p1
 
-##github
-コントラクト
+## github
+###コントラクト
 https://github.com/Takeharu-K/ClowdInsurance
 
-フロント
+###フロント
 https://github.com/shoooooman/clowd-insurance-front
 
 
