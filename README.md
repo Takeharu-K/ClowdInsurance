@@ -59,12 +59,12 @@ https://devpost.com/software/clowd-insurance
 https://docs.google.com/presentation/d/1DWlA2xXq_RKslU-oQ0a80b33-sDYzOq0/edit#slide=id.p1
 
 ## github
-###コントラクト
+### コントラクト
 https://github.com/Takeharu-K/ClowdInsurance
 
-###フロント
+### フロント
 https://github.com/shoooooman/clowd-insurance-front
 
 
-##etherscan
+## etherscan
 https://rinkeby.etherscan.io/address/0x16bc554e4ae25282b04c6dc825699a1302260745#contracts
